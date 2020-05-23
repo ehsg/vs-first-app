@@ -1,0 +1,13 @@
+C:\Users\Vivian\Edu\vs-first-app\bin\Debug\netcoreapp3.1\vs-first-app.exe
+C:\Users\Vivian\Edu\vs-first-app\bin\Debug\netcoreapp3.1\vs-first-app.deps.json
+C:\Users\Vivian\Edu\vs-first-app\bin\Debug\netcoreapp3.1\vs-first-app.runtimeconfig.json
+C:\Users\Vivian\Edu\vs-first-app\bin\Debug\netcoreapp3.1\vs-first-app.runtimeconfig.dev.json
+C:\Users\Vivian\Edu\vs-first-app\bin\Debug\netcoreapp3.1\vs-first-app.dll
+C:\Users\Vivian\Edu\vs-first-app\bin\Debug\netcoreapp3.1\vs-first-app.pdb
+C:\Users\Vivian\Edu\vs-first-app\obj\Debug\netcoreapp3.1\vs-first-app.csprojAssemblyReference.cache
+C:\Users\Vivian\Edu\vs-first-app\obj\Debug\netcoreapp3.1\vs-first-app.AssemblyInfoInputs.cache
+C:\Users\Vivian\Edu\vs-first-app\obj\Debug\netcoreapp3.1\vs-first-app.AssemblyInfo.cs
+C:\Users\Vivian\Edu\vs-first-app\obj\Debug\netcoreapp3.1\vs-first-app.csproj.CoreCompileInputs.cache
+C:\Users\Vivian\Edu\vs-first-app\obj\Debug\netcoreapp3.1\vs-first-app.dll
+C:\Users\Vivian\Edu\vs-first-app\obj\Debug\netcoreapp3.1\vs-first-app.pdb
+C:\Users\Vivian\Edu\vs-first-app\obj\Debug\netcoreapp3.1\vs-first-app.genruntimeconfig.cache
